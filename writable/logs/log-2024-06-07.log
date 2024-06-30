@@ -1,0 +1,72 @@
+CRITICAL - 2024-06-07 06:16:15 --> ParseError: syntax error, unexpected token "?", expecting end of file
+[Method: GET, Route: tambahkecamatan]
+in APPPATH\Views\kecamatan\tambah.php on line 85.
+ 1 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('kecamatan/tambah', [], true)
+ 3 APPPATH\Controllers\kecamatan.php(32): view('kecamatan/tambah', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Kecamatan->tambah()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kecamatan))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-07 06:36:49 --> ParseError: syntax error, unexpected token "?", expecting end of file
+[Method: GET, Route: tambahkecamatan]
+in APPPATH\Views\kecamatan\tambah.php on line 85.
+ 1 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('kecamatan/tambah', [], true)
+ 3 APPPATH\Controllers\kecamatan.php(32): view('kecamatan/tambah', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Kecamatan->tambah()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kecamatan))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-07 09:02:12 --> ParseError: syntax error, unexpected token "?", expecting end of file
+[Method: GET, Route: tambahkecamatan]
+in APPPATH\Views\kecamatan\tambah.php on line 85.
+ 1 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('kecamatan/tambah', [], true)
+ 3 APPPATH\Controllers\kecamatan.php(32): view('kecamatan/tambah', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Kecamatan->tambah()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kecamatan))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-07 09:02:20 --> ParseError: syntax error, unexpected token "?", expecting end of file
+[Method: GET, Route: tambahkecamatan]
+in APPPATH\Views\kecamatan\tambah.php on line 85.
+ 1 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('kecamatan/tambah', [], true)
+ 3 APPPATH\Controllers\kecamatan.php(32): view('kecamatan/tambah', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Kecamatan->tambah()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kecamatan))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-07 10:09:46 --> ParseError: syntax error, unexpected token ">"
+[Method: GET, Route: editsekolah/20301690]
+in APPPATH\Views\sekolah\edit.php on line 17.
+ 1 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('sekolah/edit', [], true)
+ 3 APPPATH\Controllers\sekolah.php(68): view('sekolah/edit', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Sekolah->edit('20301690')
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sekolah))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-07 10:39:04 --> ParseError: syntax error, unexpected token ">"
+[Method: GET, Route: editsekolah/20301690]
+in APPPATH\Views\sekolah\edit.php on line 17.
+ 1 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('sekolah/edit', [], true)
+ 3 APPPATH\Controllers\sekolah.php(68): view('sekolah/edit', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Sekolah->edit('20301690')
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sekolah))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
